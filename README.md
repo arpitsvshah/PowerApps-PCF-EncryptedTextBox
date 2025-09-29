@@ -2,6 +2,11 @@
 
 This project provides a PowerApps Component Framework (PCF) control for an encrypted text box, built with React, Fluent UI, and CryptoJS. It allows you to securely capture and encrypt user input, with flexible configuration via manifest properties.
 
+![alt text](https://arpitshah.me/wp-content/uploads/2025/09/ReactFluent-EncryptDecrypt.png)
+
+Encrpted TextBox - [text](https://github.com/arpitsvshah/PowerApps-PCF-EncryptedTextBox)
+Decrypted Textbox - [text](https://github.com/arpitsvshah/PowerApps-PCF-DecryptedTextBox)
+
 ## Features
 
 - **React-based**: Modern, maintainable UI using React.
